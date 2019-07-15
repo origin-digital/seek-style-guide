@@ -9,6 +9,7 @@ export { default as SeekApp } from './StyleGuideProvider/StyleGuideProvider'; //
 export { default as Alert } from './Alert/Alert';
 export { default as Badge } from './Badge/Badge';
 export { default as Button } from './Button/Button';
+export { default as Button2} from './Button2/Button2';
 export { default as ButtonGroup } from './ButtonGroup/ButtonGroup';
 export { default as Footer } from './Footer/Footer';
 export { default as Header } from './Header/Header';
